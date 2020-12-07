@@ -1,0 +1,86 @@
+
+
+
+.fwidgets {
+    padding: 40px 0px;
+    background: #ed564b;
+    border-top: 5px solid #f96b61;
+    border-bottom: 5px solid #f96b61;
+}
+
+.navbar{
+  background-color:white;
+  margin:40px;
+  
+}
+.mywhite{
+  color:white
+}
+.title{
+ color:black;
+ font-size:40px;
+}
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+
+.homewidget {
+    color: #fff;
+    text-align: center;
+}
+
+.img-responsive {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+}
+
+.center{
+	margin-top:20px;
+text-align:center;
+}
+
+.red{
+color:red
+}
+
+.acontent{
+margin-left:200px;
+margin-right:200px;
+}
+
+#colophon{
+background-color:black;
+color:white;
+}
+.negro{
+	
+background-color:rgb(58,59,59);
+
+color:white;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+button {
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+
+
+
+.default:hover {
+  background: yellow;
+}
+
+
